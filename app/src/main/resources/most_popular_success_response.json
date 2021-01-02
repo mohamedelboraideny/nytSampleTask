@@ -1,0 +1,1256 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/8daa2079-70f3-58d1-ba62-c649354c4559",
+      "url": "https://www.nytimes.com/2020/12/31/us/politics/trump-coronavirus.html",
+      "id": 100000007522108,
+      "asset_id": 100000007522108,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 14:04:05",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Presidential Election of 2020;United States Politics and Government;Masks;Vaccination and Immunization;Tests (Medical);White House Coronavirus Outbreak (2020);Trump, Donald J;Atlas, Scott W;Birx, Deborah L;Fauci, Anthony S;Hahn, Stephen M (1960- );Kushner, Jared;Meadows, Mark R (1959- );Pence, Mike;Azar, Alex M II;Health and Human Services Department;Food and Drug Administration;Centers for Disease Control and Prevention;National Institutes of Health",
+      "column": null,
+      "byline": "By Michael D. Shear, Maggie Haberman, Noah Weiland, Sharon LaFraniere and Mark Mazzetti",
+      "type": "Article",
+      "title": "Trump’s Focus as the Pandemic Raged: What Would It Mean for Him?",
+      "abstract": "President Trump missed his chance to show that he could rise to the moment in the final chapter of his presidency and meet the defining challenge of his tenure.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Masks",
+        "Vaccination and Immunization",
+        "Tests (Medical)",
+        "White House Coronavirus Outbreak (2020)"
+      ],
+      "org_facet": [
+        "Health and Human Services Department",
+        "Food and Drug Administration",
+        "Centers for Disease Control and Prevention",
+        "National Institutes of Health"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Atlas, Scott W",
+        "Birx, Deborah L",
+        "Fauci, Anthony S",
+        "Hahn, Stephen M (1960- )",
+        "Kushner, Jared",
+        "Meadows, Mark R (1959- )",
+        "Pence, Mike",
+        "Azar, Alex M II"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump not only ended up soundly defeated by Joseph R. Biden Jr., but missed his chance to show that he could meet the defining challenge of his tenure.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/us/politics/31dc-trump-virus-1/31dc-trump-virus-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/us/politics/31dc-trump-virus-1/31dc-trump-virus-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/us/politics/31dc-trump-virus-1/31dc-trump-virus-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/07a3e0cb-04df-5f19-ab48-19c6dc754bb3",
+      "url": "https://www.nytimes.com/2020/12/30/health/coronavirus-mutant-colorado.html",
+      "id": 100000007526665,
+      "asset_id": 100000007526665,
+      "source": "New York Times",
+      "published_date": "2020-12-30",
+      "updated": "2020-12-31 17:04:29",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Shutdowns (Institutional);Vaccination and Immunization;Nursing Homes;your-feed-science;Colorado;California;Simla (Colo);United States;Great Britain",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "Discovery of Virus Variant in Colorado and California Alarms Scientists",
+      "abstract": "A more contagious version of the coronavirus may alter the course of the pandemic in the United States, researchers said.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Shutdowns (Institutional)",
+        "Vaccination and Immunization",
+        "Nursing Homes",
+        "your-feed-science"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Colorado",
+        "California",
+        "Simla (Colo)",
+        "United States",
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One confirmed case and one suspected case of the new variant were found in two National Guard members assigned to the Good Samaritan Society, a nursing home in Simla, Colo.",
+          "copyright": "Matthew Staver for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/science/30VIRUS-VARIANT1/30VIRUS-VARIANT1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/science/30VIRUS-VARIANT1/30VIRUS-VARIANT1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/science/30VIRUS-VARIANT1/30VIRUS-VARIANT1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7c0ea935-b56a-543b-a5b2-f29f714bc951",
+      "url": "https://www.nytimes.com/2020/12/31/science/radio-signal-extraterrestrial.html",
+      "id": 100000007526902,
+      "asset_id": 100000007526902,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 18:03:03",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Extraterrestrial Life;Telescopes and Observatories;Space and Astronomy;Stars and Galaxies;Radio;Research;Breakthrough Listen",
+      "column": null,
+      "byline": "By Dennis Overbye",
+      "type": "Article",
+      "title": "Was That a Dropped Call From ET?",
+      "abstract": "A spooky radio signal showed up after a radio telescope was aimed at the next star over from our sun.",
+      "des_facet": [
+        "Extraterrestrial Life",
+        "Telescopes and Observatories",
+        "Space and Astronomy",
+        "Stars and Galaxies",
+        "Radio",
+        "Research"
+      ],
+      "org_facet": [
+        "Breakthrough Listen"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Proxima Centauri, the closest known star to our own sun, is found in the constellation Centaurus and is not visible to the naked eye. The mysterious signal came from its direction.",
+          "copyright": "ESA/Hubble \u0026 NASA",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/05/science/31SCI-OUTTHERE-signal/31SCI-OUTTHERE-signal-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/05/science/31SCI-OUTTHERE-signal/31SCI-OUTTHERE-signal-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/05/science/31SCI-OUTTHERE-signal/31SCI-OUTTHERE-signal-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8a42e95c-46f8-58be-acd8-1a6672d0155c",
+      "url": "https://www.nytimes.com/2020/12/30/arts/television/dawn-wells-dead.html",
+      "id": 100000006755187,
+      "asset_id": 100000006755187,
+      "source": "New York Times",
+      "published_date": "2020-12-30",
+      "updated": "2021-01-01 10:33:01",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;Actors and Actresses;Theater;Deaths (Obituaries);Coronavirus (2019-nCoV);Wells, Dawn",
+      "column": null,
+      "byline": "By Anita Gates",
+      "type": "Article",
+      "title": "Dawn Wells, Mary Ann on ‘Gilligan’s Island,’ Dies at 82",
+      "abstract": "Her character on the ’60s sitcom radiated all-American wholesomeness and youthful charm. After her TV career cooled, she focused on theater acting.",
+      "des_facet": [
+        "Television",
+        "Actors and Actresses",
+        "Theater",
+        "Deaths (Obituaries)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Wells, Dawn"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dawn Wells as Mary Ann Summers on an episode of \u0026ldquo;Gilligan\u0026rsquo;s Island\u0026rdquo; in 1964. Her character and her look \u0026mdash; Gingham blouses, short shorts and double ponytails \u0026mdash; personified the girl next door.",
+          "copyright": "CBS, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/01/obituaries/30Wells1/30Wells1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/01/obituaries/30Wells1/30Wells1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/01/obituaries/30Wells1/30Wells1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db414d68-1bb3-57b7-9abe-30f591cd2e72",
+      "url": "https://www.nytimes.com/2020/12/30/your-money/fafsa-expected-family-contribution.html",
+      "id": 100000007526592,
+      "asset_id": 100000007526592,
+      "source": "New York Times",
+      "published_date": "2020-12-30",
+      "updated": "2020-12-31 18:23:10",
+      "section": "Your Money",
+      "subsection": "",
+      "nytdsection": "your money",
+      "adx_keywords": "Colleges and Universities;Financial Aid (Education);Federal Aid (US);Parenting;Personal Finances;Goldrick-Rab, Sara;Education Department (US)",
+      "column": null,
+      "byline": "By Ron Lieber",
+      "type": "Article",
+      "title": "FAFSA’s Expected Family Contribution Is Going Away. Good Riddance.",
+      "abstract": "The dollar figure that the federal financial aid form spits out has long left families confused and despondent. And then there are those great expectations.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Financial Aid (Education)",
+        "Federal Aid (US)",
+        "Parenting",
+        "Personal Finances"
+      ],
+      "org_facet": [
+        "Education Department (US)"
+      ],
+      "per_facet": [
+        "Goldrick-Rab, Sara"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert Neubecker",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/business/30Money-01/30Money-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/business/30Money-01/30Money-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/business/30Money-01/30Money-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2d4e5747-9e8e-5bed-ad6c-01750d52147a",
+      "url": "https://www.nytimes.com/2020/12/31/us/spoiled-vaccine-doses-pharmacist-arrested.html",
+      "id": 100000007528370,
+      "asset_id": 100000007528370,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 11:45:07",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Hospitals;internal-essential;Advocate Aurora Health;Grafton (Wis);Wisconsin",
+      "column": null,
+      "byline": "By Kate Taylor",
+      "type": "Article",
+      "title": "A pharmacist is arrested after he allegedly allowed more than 500 vaccine doses to spoil.",
+      "abstract": "",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Hospitals",
+        "internal-essential"
+      ],
+      "org_facet": [
+        "Advocate Aurora Health"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Grafton (Wis)",
+        "Wisconsin"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Moderna vaccine can be distributed more widely because it can be stored at normal freezer temperatures.",
+          "copyright": "Cooper Neill for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/world/31virus-briefing-wisconsin-spoiled-shots-1/31virus-briefing-wisconsin-spoiled-shots-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/world/31virus-briefing-wisconsin-spoiled-shots-1/merlin_181570674_23e2dc50-f499-4c30-9f32-1159be18f729-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/world/31virus-briefing-wisconsin-spoiled-shots-1/merlin_181570674_23e2dc50-f499-4c30-9f32-1159be18f729-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2341762a-bb79-534a-95fb-1efb56ecc7a6",
+      "url": "https://www.nytimes.com/2020/12/31/arts/music/mf-doom-dead.html",
+      "id": 100000007529197,
+      "asset_id": 100000007529197,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 16:52:52",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Rap and Hip-Hop;Dumile, Daniel (MF Doom)",
+      "column": null,
+      "byline": "By Julia Jacobs",
+      "type": "Article",
+      "title": "MF Doom, Masked Rapper With Intricate Rhymes, Is Dead at 49",
+      "abstract": "Born Daniel Dumile, MF Doom built a cult following with his wordplay and comic-book style. He died in October, a statement shared by his record label said.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Rap and Hip-Hop"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Dumile, Daniel (MF Doom)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MF Doom performing in 2004. The album he released that year, “Madvillainy,” a collaboration with the producer Madlib, was a career breakthrough.",
+          "copyright": "Keith Bedford for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/arts/31doom/31doom-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/arts/31doom/31doom-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/arts/31doom/31doom-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2c36bd66-8f1c-5d4a-b5b7-e943b2d50a2c",
+      "url": "https://www.nytimes.com/2020/12/30/style/hilaria-baldwin-interview.html",
+      "id": 100000007523483,
+      "asset_id": 100000007523483,
+      "source": "New York Times",
+      "published_date": "2020-12-30",
+      "updated": "2020-12-31 13:24:07",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Social Media;Content Type: Personal Profile;your-feed-selfcare;your-feed-internet-culture;Baldwin, Hilaria;Baldwin, Alec;Spain",
+      "column": null,
+      "byline": "By Katherine Rosman",
+      "type": "Article",
+      "title": "The Hilaria Baldwin Story: ‘I’m Living My Life’",
+      "abstract": "Accused of a “decade long grift where she impersonates a Spanish person,” the entrepreneur and spouse of Alec Baldwin talks about Spain, Boston, her children, Instagram and more.",
+      "des_facet": [
+        "Social Media",
+        "Content Type: Personal Profile",
+        "your-feed-selfcare",
+        "your-feed-internet-culture"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Baldwin, Hilaria",
+        "Baldwin, Alec"
+      ],
+      "geo_facet": [
+        "Spain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alec and Hilaria Baldwin at the American Museum of Natural History’s gala in November 2019.",
+          "copyright": "Krista Schlueter for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/29/fashion/29HILARIA/29HILARIA-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/29/fashion/29HILARIA/29HILARIA-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/29/fashion/29HILARIA/29HILARIA-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fb8010a5-d800-508f-953c-0c8debf04e99",
+      "url": "https://www.nytimes.com/2021/01/01/business/GE-wind-turbine.html",
+      "id": 100000007475938,
+      "asset_id": 100000007475938,
+      "source": "New York Times",
+      "published_date": "2021-01-01",
+      "updated": "2021-01-01 18:12:24",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Wind Power;Alternative and Renewable Energy;Energy and Power;Innovation;Electric Light and Power;Gamesa Corporacion Tecnologica S A;General Electric Company;Orsted AS;Siemens Gamesa Renewable Energy SA;Vestas Wind Systems AS;Europe",
+      "column": null,
+      "byline": "By Stanley Reed",
+      "type": "Article",
+      "title": "A Monster Wind Turbine Is Upending an Industry",
+      "abstract": "G.E.’s giant machine, which can light up a small town, is stoking a renewable-energy arms race.",
+      "des_facet": [
+        "Wind Power",
+        "Alternative and Renewable Energy",
+        "Energy and Power",
+        "Innovation",
+        "Electric Light and Power"
+      ],
+      "org_facet": [
+        "Gamesa Corporacion Tecnologica S A",
+        "General Electric Company",
+        "Orsted AS",
+        "Siemens Gamesa Renewable Energy SA",
+        "Vestas Wind Systems AS"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "General Electric’s Haliade-X wind turbine at Rotterdam Harbor in the Netherlands. ",
+          "copyright": "Ilvy Njiokiktjien for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/02/business/00turbine-print/00turbine-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/02/business/00turbine-print/00turbine-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/02/business/00turbine-print/00turbine-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/001c8c67-95ae-5f45-ad75-3df0948d4c34",
+      "url": "https://www.nytimes.com/2020/12/30/us/politics/georgia-senate-early-voting.html",
+      "id": 100000007527260,
+      "asset_id": 100000007527260,
+      "source": "New York Times",
+      "published_date": "2020-12-30",
+      "updated": "2021-01-01 13:24:02",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, Senate;Voting and Voters;Loeffler, Kelly L;Perdue, David A Jr;Ossoff, Jon;Warnock, Raphael G;Republican Party;Georgia",
+      "column": null,
+      "byline": "By Astead W. Herndon and Richard Fausset",
+      "type": "Article",
+      "title": "Early Voting Numbers in Georgia Senate Races Put G.O.P. on Edge",
+      "abstract": "While polls suggest that the state’s crucial runoff elections are up for grabs, Republicans have grown worried about strong turnout in Democratic areas and mixed messages from President Trump.",
+      "des_facet": [
+        "Elections, Senate",
+        "Voting and Voters"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Loeffler, Kelly L",
+        "Perdue, David A Jr",
+        "Ossoff, Jon",
+        "Warnock, Raphael G"
+      ],
+      "geo_facet": [
+        "Georgia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senators Kelly Loeffler and David Perdue at a rally this month in Milton, Ga. President Trump will hold an event on their behalf in Dalton on Monday.",
+          "copyright": "Dustin Chambers for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/us/politics/30georgia-turnout-1/merlin_181543725_e527b1db-b502-43a4-8568-17819a88110d-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/us/politics/30georgia-turnout-1/30georgia-turnout-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/us/politics/30georgia-turnout-1/30georgia-turnout-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5320a2e9-d739-542a-a397-443c43231527",
+      "url": "https://www.nytimes.com/2020/12/31/health/vaccine-distribution-delays.html",
+      "id": 100000007526714,
+      "asset_id": 100000007526714,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 11:30:08",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Public-Private Sector Cooperation;States (US);United States Politics and Government;Hospitals;Nursing Homes;Drugstores;your-feed-healthcare;United States",
+      "column": null,
+      "byline": "By Rebecca Robbins, Frances Robles and Tim Arango",
+      "type": "Article",
+      "title": "Here’s Why Distribution of the Vaccine Is Taking Longer Than Expected",
+      "abstract": "Health officials and hospitals are struggling with a lack of resources. Holiday staffing and saving doses for nursing homes are also contributing to delays.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Public-Private Sector Cooperation",
+        "States (US)",
+        "United States Politics and Government",
+        "Hospitals",
+        "Nursing Homes",
+        "Drugstores",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Boxes of Moderna’s Covid-19 vaccine were prepared for shipping at a distribution center in Olive Branch, Miss., earlier this month.",
+          "copyright": "Pool photo by Paul Sancya",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/science/31VIRUS-VACCINE1/31VIRUS-VACCINE1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/science/31VIRUS-VACCINE1/31VIRUS-VACCINE1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/science/31VIRUS-VACCINE1/31VIRUS-VACCINE1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1d3539e2-eac7-5cd3-b8b6-755819474fa2",
+      "url": "https://www.nytimes.com/2020/12/31/technology/farmville-zynga-facebook.html",
+      "id": 100000007524875,
+      "asset_id": 100000007524875,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 14:01:14",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Computer and Video Games;Social Media;Shutdowns (Institutional);Facebook Inc;Zynga Inc",
+      "column": null,
+      "byline": "By Daniel Victor",
+      "type": "Article",
+      "title": "FarmVille Once Took Over Facebook. Now Everything Is FarmVille.",
+      "abstract": "The game, a phenomenon a decade ago, shut down on New Year’s Eve. But its legacy — for better and for worse — carries beyond gaming.",
+      "des_facet": [
+        "Computer and Video Games",
+        "Social Media",
+        "Shutdowns (Institutional)"
+      ],
+      "org_facet": [
+        "Facebook Inc",
+        "Zynga Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The original FarmVille game. After Thursday, you won’t be able to play it on Facebook anymore.",
+          "copyright": "Zynga",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/lens/31xp-farmville-lede/31xp-farmville-lede-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/lens/31xp-farmville-lede/31xp-farmville-lede-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/lens/31xp-farmville-lede/31xp-farmville-lede-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5b07c644-22b7-5e2c-9505-ad0c756c5d72",
+      "url": "https://www.nytimes.com/2020/12/30/us/minneapolis-police-shooting.html",
+      "id": 100000007527968,
+      "asset_id": 100000007527968,
+      "source": "New York Times",
+      "published_date": "2020-12-30",
+      "updated": "2020-12-31 13:39:48",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Police Brutality, Misconduct and Shootings;Murders, Attempted Murders and Homicides;George Floyd Protests (2020);Black People;Demonstrations, Protests and Riots;Floyd, George (d 2020);Police Department (Minneapolis, Minn);Minneapolis (Minn)",
+      "column": null,
+      "byline": "By Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "Minneapolis Police Fatally Shoot Man During Traffic Stop",
+      "abstract": "It was the first killing by a Minneapolis officer since George Floyd’s death in May. The chief said witnesses indicated that the man had fired first.",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings",
+        "Murders, Attempted Murders and Homicides",
+        "George Floyd Protests (2020)",
+        "Black People",
+        "Demonstrations, Protests and Riots"
+      ],
+      "org_facet": [
+        "Police Department (Minneapolis, Minn)"
+      ],
+      "per_facet": [
+        "Floyd, George (d 2020)"
+      ],
+      "geo_facet": [
+        "Minneapolis (Minn)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers in Minneapolis responded to the scene where at least one officer fatally shot a man less than a mile from where George Floyd was killed in May.",
+          "copyright": "KARE-11",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/lens/30minneapolis-photo/30minneapolis-photo-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/lens/30minneapolis-photo/30minneapolis-photo-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/lens/30minneapolis-photo/30minneapolis-photo-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/658ad86d-07e3-53c9-8555-f45901e0e61f",
+      "url": "https://www.nytimes.com/2020/12/31/opinion/joe-biden-politics.html",
+      "id": 100000007526683,
+      "asset_id": 100000007526683,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 17:57:28",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Constitution (US);Appointments and Executive Changes;United States Politics and Government;Biden, Joseph R Jr;Bork, Robert H;Senate Committee on the Judiciary;Supreme Court (US)",
+      "column": null,
+      "byline": "By Linda Greenhouse",
+      "type": "Article",
+      "title": "My Joe Biden Story",
+      "abstract": "In a career as a journalist, I had never encountered a politician like him.",
+      "des_facet": [
+        "Constitution (US)",
+        "Appointments and Executive Changes",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Senate Committee on the Judiciary",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Bork, Robert H"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Expectations for Joe Biden were low during the 1987 Senate confirmation hearings for Robert Bork\u0026rsquo;s nomination to the Supreme Court.",
+          "copyright": "John Duricka/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/03/opinion/03greenhouse_SR_print/31greenhouseWeb-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/03/opinion/03greenhouse_SR_print/31greenhouseWeb-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/03/opinion/03greenhouse_SR_print/31greenhouseWeb-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1704dd58-df8f-5f58-9b5c-bd3f35938385",
+      "url": "https://www.nytimes.com/2021/01/01/us/politics/senate-override-trump-defense-bill.html",
+      "id": 100000007529904,
+      "asset_id": 100000007529904,
+      "source": "New York Times",
+      "published_date": "2021-01-01",
+      "updated": "2021-01-01 18:12:18",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Vetoes (US);United States Defense and Military Forces;United States Politics and Government;Law and Legislation;Trump, Donald J;Senate;Democratic Party;Republican Party;House of Representatives",
+      "column": null,
+      "byline": "By Catie Edmondson",
+      "type": "Article",
+      "title": "Senate Overrides Trump’s Veto of Defense Bill, Dealing a Legislative Blow",
+      "abstract": "Republicans joined Democrats to deliver President Trump the first veto override of his presidency in the last days of his term in an overwhelming, bipartisan vote.",
+      "des_facet": [
+        "Vetoes (US)",
+        "United States Defense and Military Forces",
+        "United States Politics and Government",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Senate",
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The last time Congress overrode a presidential veto was in 2016, the final year of Barack Obama’s presidency.",
+          "copyright": "Stefani Reynolds for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/01/us/politics/01dc-cong/01dc-cong-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/01/us/politics/01dc-cong/01dc-cong-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/01/us/politics/01dc-cong/01dc-cong-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8475c144-e489-5b4c-aac4-7365d927fba5",
+      "url": "https://www.nytimes.com/2020/12/31/style/early-vaccines-politicians-social-qs.html",
+      "id": 100000007516391,
+      "asset_id": 100000007516391,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2020-12-31 09:36:33",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Customs, Etiquette and Manners;Content Type: Service",
+      "column": null,
+      "byline": "By Philip Galanes",
+      "type": "Article",
+      "title": "Seriously? He Gets an Early Vaccine?",
+      "abstract": "My sister’s Covid-downplaying politician husband is even more insufferable now that he’s been vaccinated. How do I talk to her about him?",
+      "des_facet": [
+        "Customs, Etiquette and Manners",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christoph Niemann",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-mediumThreeByTwo210-v6.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-mediumThreeByTwo440-v6.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/08b21d8d-5f6f-5e48-a459-81e39f9131ff",
+      "url": "https://www.nytimes.com/2020/12/31/us/samuel-little-dead.html",
+      "id": 100000007528001,
+      "asset_id": 100000007528001,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 16:26:06",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deaths (Obituaries);Serial Murders;Little, Samuel (1940- );California;Los Angeles County (Calif)",
+      "column": null,
+      "byline": "By Neil Vigdor",
+      "type": "Article",
+      "title": "Samuel Little, Serial Killer Who Confessed to 93 Murders, Dies at 80",
+      "abstract": "At least 50 of those murders were verified by law enforcement officers, according to the F.B.I., which declared Mr. Little the “most prolific” serial killer in U.S. history.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Serial Murders"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Little, Samuel (1940- )"
+      ],
+      "geo_facet": [
+        "California",
+        "Los Angeles County (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Samuel Little, pictured in 2018, confessed to having committed 93 murders between 1970 and 2005.",
+          "copyright": "Mark Rogers/Odessa American, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/multimedia/30xp-little-photo-2/30xp-little-photo-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/multimedia/30xp-little-photo-2/30xp-little-photo-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/multimedia/30xp-little-photo-2/30xp-little-photo-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db6ebe93-0416-5483-8b2a-3ae246d49978",
+      "url": "https://www.nytimes.com/2020/12/30/nyregion/times-square-ball-new-years.html",
+      "id": 100000007523553,
+      "asset_id": 100000007523553,
+      "source": "New York Times",
+      "published_date": "2020-12-30",
+      "updated": "2020-12-31 18:34:02",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "New Year;Coronavirus (2019-nCoV);Times Square and 42nd Street (Manhattan, NY)",
+      "column": null,
+      "byline": "By Michael Gold",
+      "type": "Article",
+      "title": "No Crowds, but Times Square Ball Drop Is Still Happening. Here’s How.",
+      "abstract": "For the first time in decades, Times Square will be closed to the public on New Year’s Eve. Instead, dozens of frontline workers and their families will be honored with spots near the stage.",
+      "des_facet": [
+        "New Year",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Times Square and 42nd Street (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This year’s New Year’s Eve ball drop will be a private affair in person, honoring frontline workers who helped keep New York running during the pandemic.",
+          "copyright": "James Estrin/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/nyregion/30nynewyearseve1/30nynewyearseve1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/nyregion/30nynewyearseve1/merlin_181768542_5620e6b6-0ff4-411d-972f-6cd4f4508a54-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/30/nyregion/30nynewyearseve1/merlin_181768542_5620e6b6-0ff4-411d-972f-6cd4f4508a54-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5fc45bbd-d622-56da-875c-b5b7c4ef0f27",
+      "url": "https://www.nytimes.com/2020/12/31/us/politics/justice-department-mike-pence-louie-gohmert.html",
+      "id": 100000007529341,
+      "asset_id": 100000007529341,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 13:06:01",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Suits and Litigation (Civil);Voter Fraud (Election Fraud);Rumors and Misinformation;Electoral College;Biden, Joseph R Jr;Gohmert, Louis B Jr;Pence, Mike;Rosen, Jeffrey Adam (1958- );Trump, Donald J;Kernodle, Jeremy D;Justice Department;Republican Party;House of Representatives;Senate",
+      "column": null,
+      "byline": "By Maggie Haberman and Katie Benner",
+      "type": "Article",
+      "title": "Justice Dept. Asks Judge to Toss Election Lawsuit Against Pence",
+      "abstract": "The suit, led by Representative Louie Gohmert of Texas, seeks to give the vice president the power to reject electoral votes that were cast for Joseph R. Biden Jr.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Suits and Litigation (Civil)",
+        "Voter Fraud (Election Fraud)",
+        "Rumors and Misinformation",
+        "Electoral College"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Republican Party",
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Gohmert, Louis B Jr",
+        "Pence, Mike",
+        "Rosen, Jeffrey Adam (1958- )",
+        "Trump, Donald J",
+        "Kernodle, Jeremy D"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As the presiding officer of the Senate, Vice President Mike Pence has the constitutionally designated responsibility of opening and tallying envelopes sent from all 50 states.",
+          "copyright": "Lynne Sladky/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/lens/31dc-pence-photo/31dc-pence-photo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/lens/31dc-pence-photo/merlin_181574196_bc4cb0cd-3d15-4ded-b0ea-efbdb3f3138c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/lens/31dc-pence-photo/merlin_181574196_bc4cb0cd-3d15-4ded-b0ea-efbdb3f3138c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c4b9edab-bdde-5d81-b496-06fedb527c39",
+      "url": "https://www.nytimes.com/2020/12/31/business/stimulus-checks-overdraft.html",
+      "id": 100000007524278,
+      "asset_id": 100000007524278,
+      "source": "New York Times",
+      "published_date": "2020-12-31",
+      "updated": "2021-01-01 13:49:23",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Banking and Financial Institutions;Prices (Fares, Fees and Rates);Credit and Debt;Personal Finances;Stimulus (Economic);Coronavirus Aid, Relief, and Economic Security Act (2020)",
+      "column": null,
+      "byline": "By Emily Flitter",
+      "type": "Article",
+      "title": "Their Finances Ravaged, Customers Fear Banks Will Withhold Stimulus Checks",
+      "abstract": "Banks have the power to decide whether to let overdrawn customers gain access to the stimulus money being deposited into their accounts, but they have taken different approaches.",
+      "des_facet": [
+        "Banking and Financial Institutions",
+        "Prices (Fares, Fees and Rates)",
+        "Credit and Debt",
+        "Personal Finances",
+        "Stimulus (Economic)",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Morgan Banke was hoping her bank would waive her overdraft fees so she could tap her stimulus funds, but the bank’s officials said they would not.",
+          "copyright": "Narayan Mahon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/business/31Stimulus-Banks/31Stimulus-Banks-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/business/31Stimulus-Banks/31Stimulus-Banks-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/31/business/31Stimulus-Banks/31Stimulus-Banks-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
